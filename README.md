@@ -1,3 +1,4 @@
+# About
 Hey ! Here are some of my development projects.   
 You will find some CTF challenges and tools, computing algortihms and more.
 
@@ -11,6 +12,6 @@ Some other linked accounts :
 - [Piet language interpretor](https://github.com/Dziga-czj/projet-C-S1)
 - [Crowd simulation](https://github.com/Dziga-czj/TIPE)
 - [Steiner tree resolution](https://github.com/Dziga-czj/PRFO23-Steiner-tree)
-### Cybersecurity
+### Cybersecurity
 - [FSIIECTF Created Challenges](https://github.com/Dziga-czj/FSIIECTF_created_challenges)
 - [stack_translator.py](https://github.com/Dziga-czj/basic_stack_translator)
