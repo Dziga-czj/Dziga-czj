@@ -1,5 +1,3 @@
-# jinjer
-
 ## ctf_tools
 You will find some ctf tools I made to make my life easier during those events.
 
