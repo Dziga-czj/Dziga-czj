@@ -2,9 +2,9 @@
 Hey ! Here are some of my development projects.   
 You will find some CTF challenges and tools, computing algortihms and more.
 
-Some other linked accounts :
-[Root-me account](https://www.root-me.org/Jinjer-298379)
-[Linkedin](https://www.linkedin.com/in/dziga-czaja-1186a2293/)
+Some other linked accounts :  
+[Root-me](https://www.root-me.org/Jinjer-298379)  
+[Linkedin](https://www.linkedin.com/in/dziga-czaja-1186a2293/)  
 
 # Index 
 ### Development
